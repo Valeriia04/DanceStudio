@@ -1,2 +1,8 @@
 # DanceStudio
-This repository contains the layout code for a web project for a dance studio. Includes responsive design, animations, sliders and other interactive elements. The goal of the project is to create a visually appealing and functional website for a dance studio, which will be later integrated into the WordPress platform.
+This repository contains files for building the web pages of a dance studio. It includes responsive layouts, animation elements, galleries, and other interactive features. The project’s purpose is to design an attractive and functional website for the dance studio, later integrated with the WordPress platform.
+
+
+
+
+
+
